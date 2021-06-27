@@ -2,7 +2,7 @@
 
 Code a rpg game
 
->Made by :
+Made by :
 <br>
 [Gurvan Le-letty](https://github.com/Darkuore)
 <br>
